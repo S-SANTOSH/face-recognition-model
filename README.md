@@ -1,0 +1,1 @@
+This project is specially based on data privacy. the machine will identify you and give you the access of the data. I tried to add a chromium layer so that user find difficulty to identify the image of user . why i not fully hashed this image is because i want you to judge the accuracy. but it can be done.
